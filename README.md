@@ -1,6 +1,6 @@
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=blue&center=true&multiline=true&width=900&size=40&lines=i+code+for+fun+++++++++++)](https://github.com/hrshx3o5o6)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=blue&center=true&multiline=true&width=900&size=40&lines=i+wait+patiently+as+my+model+is+training+++++++++++)](https://github.com/hrshx3o5o6)
 
 ---
 
