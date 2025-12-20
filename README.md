@@ -10,7 +10,7 @@
   Eliminates a platform barrier - helps user convert music links between platforms ([Chrome Web Store](https://chromewebstore.google.com/detail/muzhigal/odbomeoepepmamfpkloggnngjiehgoio))\
   #15473 in Tools\
   #213 in song keyword\
-  #246 in broken links keyword```
+  #246 in broken links keyword
 
 - **[HackBattle-ChatBot](https://github.com/hrshx3o5o6/chatbot-ieeecs/tree/deployed-modal)**  
   Developed a chatbot for the hackathon, used for 1000+ queries. Implemented an Agentic HyDE RAG system.
