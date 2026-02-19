@@ -7,8 +7,8 @@
 ### Projects:
 
 - **[Muzhigal](https://github.com/hrshx3o5o6/Muzhigal)**  
-  Eliminates a platform barrier - helps user convert music links between platforms ([Chrome Web Store](https://chromewebstore.google.com/detail/muzhigal/odbomeoepepmamfpkloggnngjiehgoio))\
-  top stats
+  Eliminates a platform barrier - helps user convert music links between platforms ([Chrome Web Store](https://chromewebstore.google.com/detail/muzhigal/odbomeoepepmamfpkloggnngjiehgoio))\  
+top stats
   #213 in song keyword @chromeWebStore\
   #246 in broken links keyword @chromeWebStore
 
@@ -37,22 +37,11 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrshx3o5o6&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hrshx3o5o6&layout=compact&theme=tokyonight&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api?username=hrshx3o5o6&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hrshx3o5o6&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrshx3o5o6&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
 
 </div>
-
----
-
-### 🏆 Major Contributions
-
-- 🎵 **Muzhigal** - 10,000+ users across Chrome Web Store
-- 🤖 **HackBattle ChatBot** - Served 1000+ queries during IEEE CS VIT hackathon
-- 📊 **Research** - Published IEEE conference paper on ML/DL architectural analysis
-- 🔧 **Open Source** - Active contributor to various ML and web development projects
 
 ---
