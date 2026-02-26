@@ -8,7 +8,8 @@
 
 - **[Muzhigal](https://github.com/hrshx3o5o6/Muzhigal)**  
   Eliminates a platform barrier - helps user convert music links between platforms ([Chrome Web Store](https://chromewebstore.google.com/detail/muzhigal/odbomeoepepmamfpkloggnngjiehgoio))\
-  top stats -
+  top stats
+  
   #213 in song keyword @chromeWebStore\
   #246 in broken links keyword @chromeWebStore
 
