@@ -12,14 +12,14 @@
   #213 in song keyword @chromeWebStore\
   #246 in broken links keyword @chromeWebStore
 
-- **[HackBattle-ChatBot](https://github.com/hrshx3o5o6/chatbot-ieeecs/tree/deployed-modal)**  
-  Developed a chatbot for the hackathon, used for 1000+ queries. Implemented an Agentic HyDE RAG system.
-  ([Live Website](https://hackbattle25.ieeecsvit.com))
+- **[aVer](https://github.com/hrshx3o5o6/avee)**  
+  Version control system for your AI Harness
+  ([pyPI](https://ppi.org/project/aver-cli))
 
 
 
-- **[prodAnalyyy](https://github.com/hrshx3o5o6/prodAnalyyy)**  
-  A productivity tracker Chrome extension that tracks time spent on websites and provides insights. In addition recognises if a user is distracted and nudges them back to productivity
+- **[brocogni](https://github.com/hrshx3o5o6/brocogni)**  
+  An MCP server that gives your AI Harness eyes to the browser. Zero telemetry. 100% local. 40% lesser token usage
 
 - **[Code-Plagiarism](https://github.com/hrshx3o5o6/plagiarism-detector-ANN)**
   Developed a code plagiarism detector to figure out if users have plagiarised code in their tasks. 
