@@ -20,8 +20,7 @@
 
 - **[brocogni](https://github.com/hrshx3o5o6/brocogni)**  
   An MCP server that gives your AI Harness eyes to the browser. Zero telemetry. 100% local. 40% lesser token usage
-
-([NPM](https://www.npmjs.com/package/browser-cognition-mcp))
+  ([NPM](https://www.npmjs.com/package/browser-cognition-mcp))
 
 - **[Code-Plagiarism](https://github.com/hrshx3o5o6/plagiarism-detector-ANN)**
   Developed a code plagiarism detector to figure out if users have plagiarised code in their tasks. 
