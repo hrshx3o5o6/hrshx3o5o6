@@ -12,7 +12,7 @@
   #213 in song keyword @chromeWebStore\
   #246 in broken links keyword @chromeWebStore
 
-- **[aVer](https://github.com/hrshx3o5o6/avee)**  
+- **[aVer](https://github.com/hrshx3o5o6/aver)**  
   Version control system for your AI Harness
   ([pyPI](https://ppi.org/project/aver-cli))
 
